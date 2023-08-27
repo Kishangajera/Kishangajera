@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![OIP](https://github.com/Kishangajera/Kishangajera/assets/108614154/3f089d38-b192-4e60-8982-20ced0d758f4)
+
 <!--
 **Kishangajera/Kishangajera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
